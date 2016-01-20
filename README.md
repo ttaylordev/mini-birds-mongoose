@@ -1,6 +1,7 @@
 # mini-birds-mongoose
 ## Objectives
 The purpose of this project is to solidify your understanding of Mongoose as an ORM for MongoDB.  By the end of the project, you should know how to set up a Mongoose model and perform CRUD operations using that model.
+//Object-relational mapping (ORM) is a technique (a.k.a. design pattern) of accessing a relational database from an object-oriented language 
 
 We are going to recreate the bird-sighting API from yesterday. **Please save this project for tomorrow's mini-project.** Consumers (or, developers who use this API) will be able to:
 
